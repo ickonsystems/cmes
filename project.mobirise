@@ -1,0 +1,1119 @@
+{
+  "settings": {
+    "name": "Site-06-07_1059",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {},
+      "additionalSetColors": []
+    },
+    "path": "@PROJECT_PATH@",
+    "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/img-20180608-128x135-1.png",
+    "noImageResize": "true",
+    "google-analytics": "",
+    "cookiesAlert": "",
+    "gdpr": "",
+    "siteUrl": "undefined",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
+    "robotsSwitcher": "on",
+    "versionFirst": "4.7.7",
+    "uniqCompNum": 36,
+    "versionPublish": "4.7.7",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": false,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/slider-1-1600x700.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 1",
+                "contentAlign": "center",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#content5-y\" data-toolbar=\"-mbrBtnMove\">VISION</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"index.html#content5-z\" data-toolbar=\"-mbrBtnMove\">MISSION </a>",
+                "overlay": true,
+                "overlayOpacity": "0.1"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/santhome-basilica-side-view10-1600x1070.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 2",
+                "contentAlign": "center",
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#content5-y\" data-toolbar=\"-mbrBtnMove\">VISION</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"index.html#content5-z\" data-toolbar=\"-mbrBtnMove\">MISSION</a>",
+                "overlay": true,
+                "overlayOpacity": "0.1"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/a5e989d2e10ee01e3e9291a968610d0d-1366x500.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#content5-y\" data-toolbar=\"-mbrBtnMove\">VISION</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">MISSION</a>",
+                "overlay": true,
+                "overlayOpacity": "0.1"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-4"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "VISION STATEMENT&nbsp;",
+          "caption": "<p>CMES stands for wholistic Education of the students entrusted to its care to form them into ideal citizens with sound mind and body respecting the governing principles of the Catholic Church and that of the government of the nation.</p><p><br></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-y",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "MISSION STATEMENT",
+          "caption": "<p>i)\tTo impart skill and Intellectual - efficiency Oriented Education.\n</p><p><span style=\"font-size: 1.25rem;\">ii)\tTo Foster in to the young minds creativity, respect for human life and to \n</span><span style=\"font-size: 1.25rem;\">work for the preserve the ECO system.&nbsp;</span></p><p><span style=\"font-size: 1.25rem;\">iii)\tTo respect and to accept other persons with whom interactions are made culturally and intellectually and even through the medium of sports and games.&nbsp;</span></p><p><br></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-z",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            },
+            "P": {
+              "text-align": "left",
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "13",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/bishop-320x192.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "ARCHBISHOP’S MESSAGE",
+          "text": "<p>“Commit your works to the Lord, and your plans will be established” (Prov 16: 3)\n</p><p>Christian discipleship hinges on the three-fold ministry of our Lord, namely prophetic, priestly and pastoral. The institution of the sacred orders by Jesus was to realize the three-dimensional service of the Church to people in need. The ministry of teaching does not necessarily mean instruction of faith alone. It focuses on the integral formation of humanity to what could be its fulfillment. Educational institutions are hubs that take care of human knowledge, creative power, positive thinking, constructive behavior and discipline. They are indeed power centers of life in the society. They conceive our future. The teaching of the Church too is one of enlightening the minds to the wonders of God and enabling them to cooperate with His plan.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"about.html\" data-toolbar=\"-mbrBtnMove\">More</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-0",
+          "_styles": {
+            ".lead P": {
+              "text-align": "left",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "20px"
+            },
+            ".lead DIV": {
+              "text-align": "left"
+            },
+            ".lead": {
+              "text-align": "left"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "20px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.2em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": "1.2",
+            "fontName": {},
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"members.html\">Members</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"assets/files/CMES-  list 2018.pdf\">Schools</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-0\">About Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-a\">Contect Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/img-20180608-121x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "CMES",
+              "link": "index.html",
+              "title": "Home",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CHENNAI MYLAI EDUCATIONAL SOCIETY<br></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-7"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "41,Santhome high road, chennai-600 004.",
+              "placeId": "Ek80MSwgU2FudGhvbWUgSGlnaCBSZCwgQmFzaGEgR2FyZGVuLCBNeWxhcG9yZSwgQ2hlbm5haSwgVGFtaWwgTmFkdSA2MDAwMDQsIEluZGlhIhoSGAoUChIJ-8Bc6X9oUjoRUJfqHcuG_noQKQ",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Address</strong><br>41, Santhome High Rd, Basha Garden, Mylapore, Chennai, Tamil Nadu 600004.<br><br>\n<strong>Contacts</strong><br>\nEmail: chennaimylaieducationalsocitety@gmail.com<br>\nPhone: +91 44 2495 8603<br>Mobile: 9444643018<br>",
+          "text2": "<ul></ul>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-a",
+          "_styles": {
+            "P": {
+              "font-size": "14px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "© Copyright 2018-2019 cmes.org.in  - All Rights Reserved . Developed by <a href=\"http://ickonsystems.in/\">Ickon Systems</a><br>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-b"
+        }
+      ]
+    },
+    "about.html": {
+      "settings": {
+        "title": "About",
+        "order": 2
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "ARCHBISHOP’S MESSAGE\n",
+          "caption": "<p><span style=\"font-size: 1.25rem;\">“Commit your works to the Lord, and your plans will be established” (Prov 16: 3)</span><br></p><p>Christian discipleship hinges on the three-fold ministry of our Lord, namely prophetic, priestly and pastoral. The institution of the sacred orders by Jesus was to realize the three-dimensional service of the Church to people in need. The ministry of teaching does not necessarily mean instruction of faith alone. It focuses on the integral formation of humanity to what could be its fulfillment. Educational institutions are hubs that take care of human knowledge, creative power, positive thinking, constructive behavior and discipline. They are indeed power centers of life in the society. They conceive our future. The teaching of the Church too is one of enlightening the minds to the wonders of God and enabling them to cooperate with His plan.\n</p><p>The Archdiocese of Madras-Mylapore to its credit has been effectively carrying out education ministry for the past many years. Children of all walks of life have gone through the portals of our educational institutions. We are delighted to see them as shining stars in the society. To cater to the needs of many of those who are still away from the reach of our ministry, our approach through virtual media would surely be a boon. In his message for the 50th World Day of Social Communications, Pope Francis said: “Communication, wherever and however it takes place, has opened up broader horizons for many people. This is a gift of God which involves a great responsibility.” We are delighted that this blessing from God will connect us with people who are still unknown to us. All information that pertains to Roman Catholic Schools of the Archdiocese of Madras-Mylapore, the developments, new initiatives and available services could be sought here. This new effort we believe is another milestone in our work of service to God and people.\n</p><p>At this juncture, I congratulate all good hearted people who put their hearts and minds together to make this dream a reality. We commit all our works to God and surrender to His mercy. May God continue to inspire us to the modern means of evangelization and guide us to His divine Will! Let me assure you all my prayers and blessings!\n</p><p>In the Lord,\n</p><p>+ George Antonysamy\n</p><p>Archbishop of Madras-Mylapore</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-f"
+        },
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "20px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.2em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": "1.2",
+            "fontName": {},
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"members.html\">Members</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"assets/files/CMES-  list 2018.pdf\">Schools</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-0\">About Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-a\">Contect Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/img-20180608-121x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "CMES",
+              "link": "index.html",
+              "title": "Home",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CHENNAI MYLAI EDUCATIONAL SOCIETY<br></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-c"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "41,Santhome high road, chennai-600 004.",
+              "placeId": "Ek80MSwgU2FudGhvbWUgSGlnaCBSZCwgQmFzaGEgR2FyZGVuLCBNeWxhcG9yZSwgQ2hlbm5haSwgVGFtaWwgTmFkdSA2MDAwMDQsIEluZGlhIhoSGAoUChIJ-8Bc6X9oUjoRUJfqHcuG_noQKQ",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Address</strong><br>41, Santhome High Rd, Basha Garden, Mylapore, Chennai, Tamil Nadu 600004.<br><br>\n<strong>Contacts</strong><br>\nEmail: chennaimylaieducationalsocitety@gmail.com<br>\nPhone: +91 44 2495 8603<br>Mobile: 9444643018<br>",
+          "text2": "<ul></ul>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "contacts2-d"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "© Copyright 2018-2019 cmes.org.in  - All Rights Reserved . Developed by <a href=\"http://ickonsystems.in/\">Ickon Systems</a><br>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-e"
+        }
+      ]
+    },
+    "members.html": {
+      "settings": {
+        "title": "Members",
+        "order": 3
+      },
+      "components": [
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/george-1171-300x450.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/155-fr-stanley-sebastian-289x355.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/119-fr-maria-amala-raj-j-218x268.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/36-fr-balasamy-m-289x355.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Most Rev Dr. George Antonysamy",
+          "caption1": "Archbishop of Madras - Mylapore",
+          "title2": "Fr. Stanley Sebastian",
+          "caption2": "Vicar General",
+          "title3": "Fr. Maria Amala Raj J",
+          "caption3": "Vicar General",
+          "title4": "Fr. Balasamy M",
+          "caption4": "Secretary",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">More</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">More</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">More</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-l",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "14px"
+            },
+            "H4": {
+              "font-size": "15px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/166-fr-vargese-rozario-kj-251x311.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/156-fr-stephen-b-173x212.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/92-fr-jose-v-thomas-288x355.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/130-fr-pascal-petrus-400x491.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Fr. Vargese Rozario K J",
+          "caption1": "Chancellor",
+          "title2": "Fr. Stephen B",
+          "caption2": "Financial Administrator",
+          "title3": "<p>Fr. Jose V Thomas</p>",
+          "caption3": "Administrator – Properties",
+          "title4": "Fr. Pascal Petrus",
+          "caption4": "Parish Priest",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">More</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">More</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">More</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-m",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "14px"
+            },
+            "H4": {
+              "font-size": "15px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/108-fr-kanickairaj-ps-228x281.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/09-fr-andrew-dominic-2-288x351.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/feature-google-fonts.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/feature-websites.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Fr. Kanickairaj P S",
+          "caption1": "Parish Priest",
+          "title2": "Responsive",
+          "caption2": "Parish Priest",
+          "title3": "Fr. Andrew Dominic",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">More</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">More</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">More</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-k",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "14px"
+            },
+            "H4": {
+              "font-size": "15px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "20px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.2em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": "1.2",
+            "fontName": {},
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"members.html\">Members</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"assets/files/CMES-  list 2018.pdf\">Schools</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-0\">About Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-a\">Contect Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/img-20180608-121x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "CMES",
+              "link": "index.html",
+              "title": "Home",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CHENNAI MYLAI EDUCATIONAL SOCIETY<br></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-h"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "41,Santhome high road, chennai-600 004.",
+              "placeId": "Ek80MSwgU2FudGhvbWUgSGlnaCBSZCwgQmFzaGEgR2FyZGVuLCBNeWxhcG9yZSwgQ2hlbm5haSwgVGFtaWwgTmFkdSA2MDAwMDQsIEluZGlhIhoSGAoUChIJ-8Bc6X9oUjoRUJfqHcuG_noQKQ",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Address</strong><br>41, Santhome High Rd, Basha Garden, Mylapore, Chennai, Tamil Nadu 600004.<br><br>\n<strong>Contacts</strong><br>\nEmail: chennaimylaieducationalsocitety@gmail.com<br>\nPhone: +91 44 2495 8603<br>Mobile: 9444643018<br>",
+          "text2": "<ul></ul>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "contacts2-i"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "© Copyright 2018-2019 cmes.org.in  - All Rights Reserved . Developed by <a href=\"http://ickonsystems.in/\">Ickon Systems</a><br>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-j"
+        }
+      ]
+    },
+    "schools.html": {
+      "settings": {
+        "title": "Schools",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showName": false,
+            "showBio": false,
+            "count": "1",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "header": "CHENNAI –MYLAI EDUCATIONAL SOCIETY - MANAGED SCHOOL LIST&nbsp;",
+          "items": [
+            {
+              "authorName": "ABANOUB S.",
+              "authorBio": "User",
+              "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<b><span style=\"font-size: 1rem;\">AIDED SCHOOL</span></b><br></p><div>\n</div><div>\n</div><div><b>PRIMARY SCHOOLS:-</b></div><div>\n</div><div>1.\tCathedral Free Primary School, No.19, Santhome High Road, Chennai - 600 004.\n</div><div>2.\tGood Samaritan Primary School, Ambedkar st, Erukkencherry, Chennai – 118                                                                                                                                                \n</div><div>3.\t  RCM Primary School, Mappadu, Perambakkam , Mettucherry, TVR Dt \n</div><div>4.\tRCM Elementary School, Kamaraj Nagar 4th Street, Avadi, Chennai - 600 071\n</div><div>5.\tSt.Ignatius Primary School, Kilacherry, Perambakkam Via,  Thiruvallur Dt - 631 403\n</div><div>6.\tAssumption Primary School, No.5, Nungambakkam High Road, Chennai – 600 034.\n</div><div>7.\tSt.Antony  Mackeys Garden, Ramasamy St, Thousand light  Chennai – 600 006.\n</div><div>8.\t  RCM Primary School, Pulicat Po, Ponneri TK TVR Dt 601 205 \n</div><div>9.\tSt.Paul’s Mahajana Primary School, Sathangadu High Road, Kaladipet, Tiruvottiyur,Ch-19\n</div><div>10.\tRCM Primary School, Don Bosco Puram,,Thozhudavur (V),Chinnammapet PO,TVR Dt 631 210\n</div><div>11.\tDon Bosco Primary School, Vepery High Road, Vepery, Chennai - 600 007.\n</div><div>12.\tSt.Andrew’s Primary School, 123, Kaladiappa St, Choolai, Chennai - 112</div><div><br></div><div>\n</div><div>\n</div><div><b>MIDDLE SCHOOLS:-</b></div><div>\n</div><div>1.\tSt. Agne’s Aided Middle School, 99, Portuguese Church Street, George Town, Chennai - 600 001.\n</div><div>2.\tMary Immaculate Middle School, 63, Halls Road, Kilpauk, Chennai - 600 010\n</div><div>3.\tSt. Peter’s Middle School, Pinjivakkam Kandigai, Kadambathur Po, Thiruvallur Dt – 631 203\n</div><div>4.\tSt.Francis Xavier Middle School, Kilacherry, Perambakkam Via,  Thiruvallur Dt - 631 403</div><div><br></div><div>\n</div><div>\n</div><div><b>HIGH SCHOOLS:-</b></div><div>\n</div><div>1.\tAnnai Velankanni High School, Sastri Nagar, Vysarpadi, Chennai - 600 039\n</div><div>2.\tSt. Andrew’s High  School, 123, Kalathiappa Street, Choolai, Chennai - 600 112\n</div><div>3.\tDon Bosco High School, Vepery High Road, Vepery, Chennai - 600 007.</div><div><br></div><div><b>HIGHER SEC SCHOOLS:-</b></div><div>\n</div><div>1.\tSt. Joseph’s Hr.Sec.School,41, Ambedkar Salai,Teachers’ Colony, Erukancherry, Chennai - 118.\n</div><div>2.\tRCM Hr.Sec.School, Kamaraj Nagar 4th Street, Avadi, Chennai - 600 071\n</div><div>3.\tSt. Joseph’s Hr.Sec. School, Kilacherry, Perambakkam Via,  Thiruvallur Dt - 631 403\n</div><div>4.\tAssumption Hr.Sec.School, No. 5, Nungambakkam High Road, Chennai - 600 034.\n</div><div>5.\tSt. Paul’s Mahajana Hr.Sec.School, Sathangadu High Road, Kaladipet, Tiruvottiyur,Ch-19\n</div><div>6.\tSt. Charles Hr.Sec. School, Alphonsapuram,K.G. Kandigai Po,Tiruttani TK,&nbsp;<span style=\"font-size: 1rem;\">Tiruvallur Dt- 631 205(Unaided/TamilMedium)</span></div><div><span style=\"font-size: 1rem;\"><br></span></div><div>\n</div><div><b>ANGLO INDIAN HR.SEC.SCHOOL \n</b></div><div>\n</div><div>1.\tSt.Joseph’s A.I. Boy’s Hr Sec. School, Vepery High Road, Vepery, Chennai - 600 007.</div><div><br></div><div>\n</div><div>\n</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style=\"font-size: 1rem;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><b style=\"font-size: 1rem;\">UNAIDED SCHOOLS</b></div><div>\n</div><div><b>PRIMARY SCHOOLS:-</b></div><div>\n</div><div>1.\t    St. Thomas Nursery &amp; Primary School, Rosary Chruch Road, Santhome, Chennai – 600 004.\n</div><div>2.\tJ M Parampet Nur&amp; Primary School, Alphonsapuram,K.G. Kandigai Po,Tiruttani TK,TVR Dt- 631 205\n</div><div>3.\tSt. Joseph’s Primary School, Krishnapuram, Ambattur Po, Chennai - 600 053\n</div><div>4.\tDon Bosco Primary School, Teachers’ Colony, Erukancherry, Chennai - 600 118\n</div><div>5.\tSt.Anthony’s Nursery &amp; Primary School, 99, Portuguese Church Street, George Town, Ch -  001\n</div><div>6.\tSt. Joseph’s Primary School, Gandhipet, Ulundai PO, Sriperumbathur Via, TVR Dt 602 105\n</div><div>7.\tSt. Mary’s Nursery  &amp; Primary School, Kadambathur Po, Thiruvallur Dt – 631 203\n</div><div>8.\tSt. Theresa of Child Jesus Nursery School, Madha Koil Street, Avadi (V),Morai,Chennai 600 055\n</div><div>9.\tAssumption Nur &amp; Primary School, No.5, Nungambakkam High Road, Chennai - 34\n</div><div>10.\tSt. Antony’s Primary School, Punitha Anthoniyar Ngr, Puzhal Camp,Chennai – 600 066.\n</div><div>11.\tFatima Nursery &amp; Primary School, 22, Lazarus Church Road, R.A. Puram, Chennai - 600 028\n</div><div>12.\tDon Bosco Nursery &amp; Primary, Thiruvalluvar Nagar,Tirur PO, Sevvapet, TVR Dt 602025\n</div><div>13.\tSt. Paul’s Nursery &amp; Primary School, Sathangadu High Rd, Kaladipet, Tiruvottiyur,Ch-19\n</div><div>14.\tSt. Joseph’s Boys Primary School, Vepery High Road, Vepery, Chennai - 600 007.\n</div><div>15.\tDon Bosco Nursery &amp; Primary School, 119A, Thanikachalam Ngr, Ponniammanmedu PO – \n</div><div>16.\tMother Teresa Nursery &amp; Primary School, Sanaarpalayam, Elavembedu, Ponneri, Tiruvallur Dt 601 203\n</div><div>17.\tHoly Trinity Nursery &amp; Primary School,   No.4/1, 4th Block, Mogappair West  Chennai – 600 037</div><div><br></div><div>\n</div><div>\n</div><div><b>MATRICULATION HIGH SCHOOL:-</b></div><div>\n</div><div>1.\tRCM  Matric School, J.B. Estate, Avadi, Chennai - 600 054.\n</div><div>2.\tDon Bosco Mat.School, 28, Marimalai Adikal St, Erukkencherry, Chennai-118\n</div><div>3.\tInfant Jesus Matric.School, Labour Colony, Guindy, Chennai - 32\n</div><div>4.\tRCM Matric. School, Kamaraj Nagar 4th Street, Avadi, Chennai - 600 071\n</div><div>5.\tSt. Joseph’s Matric School, Madha Koil St, Periyapalayam, TVR Dt\n</div><div>6.\tDon Bosco Mat. School, Roshanagaram, Madarpakkam Po,Thiruvallur Dt – 601 202\n</div><div>7.\tAnnai Velankanni Matric School, Sastri Nagar, Vysarpadi, Chennai - 600 039\n</div><div>8.\tSt. Mary’s Matric School, Chitur Road, Tirutani, Thiruvallur Dt – 631 209\n</div><div>9.\tSt. Roque’s Matric  School, Mc Road , Old  Washermenpet, Chennai - 600 021\n</div><div>10.\tSt. Anne’s Matric School, No.7, Pallavan Salai, Nesapakkam, Chennai-78\n</div><div><br></div><div><b>MATRICULATION HIGHER SECONDARY SCHOOL\n:-</b></div><div>\n</div><div>1.\t  St. Mary’s Mat. Hr.Sec. School, Arambakkam Po, Gummidipundi Taluk, Thiruvallur Dt – 601 207\n</div><div>2.\t  Sagaya Matha Matric Hr.Sec.School, 50, Bharathiyar Nagar,  Ennore, Chennai - 57\n</div><div>3.\tLoyola Mat.Hr.Sec.School, UTI Colony, Kodambakkam, Chennai - 600 024\n</div><div>4.\tDon Bosco Mat.Hr.Sec.School, No.6, Paper Mills Road, Peravallur, Chennai - 600 082\n</div><div>5.\tMaria Mat.Hr.Sec.School, Arathoon Road, Royapuram, Chennai - 600 013\n</div><div>6.\tDon Bosco Mat.Hr.Sec.School, Srinivasa Nagar, Kolathur, Chennai - 600 099\n</div><div>7.\tDon Bosco Mat H.S.School, 302, Madha Koil Street,  Uthukottai,TVR Dt 602 026\n</div><div>8.\tSt. Joseph’s Mat. Hr.Sec.School,15, Palayakara Street, Porur, Chennai - 600 116\n</div><p></p>"
+            },
+            {
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User",
+              "text": "<em>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag &amp; drop with no time design bootstrap builder in present web design world.”</em>"
+            },
+            {
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User",
+              "text": "<em>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</em>"
+            }
+          ],
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-u",
+          "testimonial": [
+            {
+              "authorName": "ABANOUB S.",
+              "authorBio": "User",
+              "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<b><span style=\"font-size: 1rem;\">AIDED SCHOOL</span></b><br></p><div>\n</div><div>\n</div><div><b>PRIMARY SCHOOLS:-</b></div><div>\n</div><div>1.\tCathedral Free Primary School, No.19, Santhome High Road, Chennai - 600 004.\n</div><div>2.\tGood Samaritan Primary School, Ambedkar st, Erukkencherry, Chennai – 118                                                                                                                                                \n</div><div>3.\t  RCM Primary School, Mappadu, Perambakkam , Mettucherry, TVR Dt \n</div><div>4.\tRCM Elementary School, Kamaraj Nagar 4th Street, Avadi, Chennai - 600 071\n</div><div>5.\tSt.Ignatius Primary School, Kilacherry, Perambakkam Via,  Thiruvallur Dt - 631 403\n</div><div>6.\tAssumption Primary School, No.5, Nungambakkam High Road, Chennai – 600 034.\n</div><div>7.\tSt.Antony  Mackeys Garden, Ramasamy St, Thousand light  Chennai – 600 006.\n</div><div>8.\t  RCM Primary School, Pulicat Po, Ponneri TK TVR Dt 601 205 \n</div><div>9.\tSt.Paul’s Mahajana Primary School, Sathangadu High Road, Kaladipet, Tiruvottiyur,Ch-19\n</div><div>10.\tRCM Primary School, Don Bosco Puram,,Thozhudavur (V),Chinnammapet PO,TVR Dt 631 210\n</div><div>11.\tDon Bosco Primary School, Vepery High Road, Vepery, Chennai - 600 007.\n</div><div>12.\tSt.Andrew’s Primary School, 123, Kaladiappa St, Choolai, Chennai - 112</div><div><br></div><div>\n</div><div>\n</div><div><b>MIDDLE SCHOOLS:-</b></div><div>\n</div><div>1.\tSt. Agne’s Aided Middle School, 99, Portuguese Church Street, George Town, Chennai - 600 001.\n</div><div>2.\tMary Immaculate Middle School, 63, Halls Road, Kilpauk, Chennai - 600 010\n</div><div>3.\tSt. Peter’s Middle School, Pinjivakkam Kandigai, Kadambathur Po, Thiruvallur Dt – 631 203\n</div><div>4.\tSt.Francis Xavier Middle School, Kilacherry, Perambakkam Via,  Thiruvallur Dt - 631 403</div><div><br></div><div>\n</div><div>\n</div><div><b>HIGH SCHOOLS:-</b></div><div>\n</div><div>1.\tAnnai Velankanni High School, Sastri Nagar, Vysarpadi, Chennai - 600 039\n</div><div>2.\tSt. Andrew’s High  School, 123, Kalathiappa Street, Choolai, Chennai - 600 112\n</div><div>3.\tDon Bosco High School, Vepery High Road, Vepery, Chennai - 600 007.</div><div><br></div><div><b>HIGHER SEC SCHOOLS:-</b></div><div>\n</div><div>1.\tSt. Joseph’s Hr.Sec.School,41, Ambedkar Salai,Teachers’ Colony, Erukancherry, Chennai - 118.\n</div><div>2.\tRCM Hr.Sec.School, Kamaraj Nagar 4th Street, Avadi, Chennai - 600 071\n</div><div>3.\tSt. Joseph’s Hr.Sec. School, Kilacherry, Perambakkam Via,  Thiruvallur Dt - 631 403\n</div><div>4.\tAssumption Hr.Sec.School, No. 5, Nungambakkam High Road, Chennai - 600 034.\n</div><div>5.\tSt. Paul’s Mahajana Hr.Sec.School, Sathangadu High Road, Kaladipet, Tiruvottiyur,Ch-19\n</div><div>6.\tSt. Charles Hr.Sec. School, Alphonsapuram,K.G. Kandigai Po,Tiruttani TK,&nbsp;<span style=\"font-size: 1rem;\">Tiruvallur Dt- 631 205(Unaided/TamilMedium)</span></div><div><span style=\"font-size: 1rem;\"><br></span></div><div>\n</div><div><b>ANGLO INDIAN HR.SEC.SCHOOL \n</b></div><div>\n</div><div>1.\tSt.Joseph’s A.I. Boy’s Hr Sec. School, Vepery High Road, Vepery, Chennai - 600 007.</div><div><br></div><div>\n</div><div>\n</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style=\"font-size: 1rem;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><b style=\"font-size: 1rem;\">UNAIDED SCHOOLS</b></div><div>\n</div><div><b>PRIMARY SCHOOLS:-</b></div><div>\n</div><div>1.\t    St. Thomas Nursery &amp; Primary School, Rosary Chruch Road, Santhome, Chennai – 600 004.\n</div><div>2.\tJ M Parampet Nur&amp; Primary School, Alphonsapuram,K.G. Kandigai Po,Tiruttani TK,TVR Dt- 631 205\n</div><div>3.\tSt. Joseph’s Primary School, Krishnapuram, Ambattur Po, Chennai - 600 053\n</div><div>4.\tDon Bosco Primary School, Teachers’ Colony, Erukancherry, Chennai - 600 118\n</div><div>5.\tSt.Anthony’s Nursery &amp; Primary School, 99, Portuguese Church Street, George Town, Ch -  001\n</div><div>6.\tSt. Joseph’s Primary School, Gandhipet, Ulundai PO, Sriperumbathur Via, TVR Dt 602 105\n</div><div>7.\tSt. Mary’s Nursery  &amp; Primary School, Kadambathur Po, Thiruvallur Dt – 631 203\n</div><div>8.\tSt. Theresa of Child Jesus Nursery School, Madha Koil Street, Avadi (V),Morai,Chennai 600 055\n</div><div>9.\tAssumption Nur &amp; Primary School, No.5, Nungambakkam High Road, Chennai - 34\n</div><div>10.\tSt. Antony’s Primary School, Punitha Anthoniyar Ngr, Puzhal Camp,Chennai – 600 066.\n</div><div>11.\tFatima Nursery &amp; Primary School, 22, Lazarus Church Road, R.A. Puram, Chennai - 600 028\n</div><div>12.\tDon Bosco Nursery &amp; Primary, Thiruvalluvar Nagar,Tirur PO, Sevvapet, TVR Dt 602025\n</div><div>13.\tSt. Paul’s Nursery &amp; Primary School, Sathangadu High Rd, Kaladipet, Tiruvottiyur,Ch-19\n</div><div>14.\tSt. Joseph’s Boys Primary School, Vepery High Road, Vepery, Chennai - 600 007.\n</div><div>15.\tDon Bosco Nursery &amp; Primary School, 119A, Thanikachalam Ngr, Ponniammanmedu PO – \n</div><div>16.\tMother Teresa Nursery &amp; Primary School, Sanaarpalayam, Elavembedu, Ponneri, Tiruvallur Dt 601 203\n</div><div>17.\tHoly Trinity Nursery &amp; Primary School,   No.4/1, 4th Block, Mogappair West  Chennai – 600 037</div><div><br></div><div>\n</div><div>\n</div><div><b>MATRICULATION HIGH SCHOOL:-</b></div><div>\n</div><div>1.\tRCM  Matric School, J.B. Estate, Avadi, Chennai - 600 054.\n</div><div>2.\tDon Bosco Mat.School, 28, Marimalai Adikal St, Erukkencherry, Chennai-118\n</div><div>3.\tInfant Jesus Matric.School, Labour Colony, Guindy, Chennai - 32\n</div><div>4.\tRCM Matric. School, Kamaraj Nagar 4th Street, Avadi, Chennai - 600 071\n</div><div>5.\tSt. Joseph’s Matric School, Madha Koil St, Periyapalayam, TVR Dt\n</div><div>6.\tDon Bosco Mat. School, Roshanagaram, Madarpakkam Po,Thiruvallur Dt – 601 202\n</div><div>7.\tAnnai Velankanni Matric School, Sastri Nagar, Vysarpadi, Chennai - 600 039\n</div><div>8.\tSt. Mary’s Matric School, Chitur Road, Tirutani, Thiruvallur Dt – 631 209\n</div><div>9.\tSt. Roque’s Matric  School, Mc Road , Old  Washermenpet, Chennai - 600 021\n</div><div>10.\tSt. Anne’s Matric School, No.7, Pallavan Salai, Nesapakkam, Chennai-78\n</div><div><br></div><div><b>MATRICULATION HIGHER SECONDARY SCHOOL\n:-</b></div><div>\n</div><div>1.\t  St. Mary’s Mat. Hr.Sec. School, Arambakkam Po, Gummidipundi Taluk, Thiruvallur Dt – 601 207\n</div><div>2.\t  Sagaya Matha Matric Hr.Sec.School, 50, Bharathiyar Nagar,  Ennore, Chennai - 57\n</div><div>3.\tLoyola Mat.Hr.Sec.School, UTI Colony, Kodambakkam, Chennai - 600 024\n</div><div>4.\tDon Bosco Mat.Hr.Sec.School, No.6, Paper Mills Road, Peravallur, Chennai - 600 082\n</div><div>5.\tMaria Mat.Hr.Sec.School, Arathoon Road, Royapuram, Chennai - 600 013\n</div><div>6.\tDon Bosco Mat.Hr.Sec.School, Srinivasa Nagar, Kolathur, Chennai - 600 099\n</div><div>7.\tDon Bosco Mat H.S.School, 302, Madha Koil Street,  Uthukottai,TVR Dt 602 026\n</div><div>8.\tSt. Joseph’s Mat. Hr.Sec.School,15, Palayakara Street, Porur, Chennai - 600 116\n</div><p></p>"
+            }
+          ],
+          "_styles": {
+            ".card-block DIV": {
+              "text-align": "left"
+            },
+            ".card-block P": {
+              "font-size": "20px"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "20px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.2em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#ffffff",
+            "fontSize": "1.2",
+            "fontName": {},
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"members.html\">Members</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"assets/files/CMES-  list 2018.pdf\">Schools</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-0\">About Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-a\">Contect Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/img-20180608-121x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "CMES",
+              "link": "index.html",
+              "title": "Home",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CHENNAI MYLAI EDUCATIONAL SOCIETY<br></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-n"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "© Copyright 2018-2019 cmes.org.in  - All Rights Reserved . Developed by <a href=\"http://ickonsystems.in/\">Ickon Systems</a><br>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-p"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "41,Santhome high road, chennai-600 004.",
+              "placeId": "Ek80MSwgU2FudGhvbWUgSGlnaCBSZCwgQmFzaGEgR2FyZGVuLCBNeWxhcG9yZSwgQ2hlbm5haSwgVGFtaWwgTmFkdSA2MDAwMDQsIEluZGlhIhoSGAoUChIJ-8Bc6X9oUjoRUJfqHcuG_noQKQ",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Address</strong><br>41, Santhome High Rd, Basha Garden, Mylapore, Chennai, Tamil Nadu 600004.<br><br>\n<strong>Contacts</strong><br>\nEmail: chennaimylaieducationalsocitety@gmail.com<br>\nPhone: +91 44 2495 8603<br>Mobile: 9444643018<br>",
+          "text2": "<ul></ul>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "contacts2-o"
+        }
+      ]
+    }
+  }
+}
